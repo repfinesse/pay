@@ -1,14 +1,6 @@
 <?php
 //$test = false;
-    
-if(isset($test) && $test){
-    $pk = "pk_test_sWAZb1S4HH5uF8ZkQMOfl3aE";
-    $sk = "sk_test_Yh8tRq4TjLm9o5cpv7ppDuPn007H2byNoa";
-    
-}else{
-     $pk = "pk_live_YfN88NHx8QzsxvYHDQX5yDXF";
-    $sk = "sk_live_3acV16g0xtmz7FgjAE2Jdctj00T7V6brTE";
-}
+
 
 return [
 
